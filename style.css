@@ -20,10 +20,10 @@ h2{
 
 .half-with{
     width: 50%;
-    padding-left: 2%;
+    padding-left: 5%;
 }
 .half-with img{
-    width: 80%;
+    width: 100%;
 }
 
 .link-button{
@@ -38,6 +38,7 @@ h2{
 .top-banner{
     background-image:url(image/top-banner.png);
     background-repeat: no-repeat;
+    padding-top: 100px;
 }
 .dream-big{
     background-image:url(image/dream-bg.png);
